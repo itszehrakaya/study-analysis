@@ -20,6 +20,7 @@ You will need to have Python 3 installed on your computer along with the followi
 - Pandas
 - Seaborn
 - Matplotlib (for data visualization)
+
 You can install these libraries using pip, a package installer for Python. Open your terminal and type the following command:
 
 `pip install numpy pandas seaborn matplotlib`
